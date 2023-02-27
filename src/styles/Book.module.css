@@ -1,0 +1,23 @@
+.Book {
+    background-color: #ffffff;
+    border: 1px solid #dadadf;
+    border-radius: 2px;
+    margin-bottom: 16px;
+    text-align: center;
+  }
+  
+.Book figure,
+h5 {
+  margin: 0 0;
+}
+
+.CoverCol {
+  width: 95%;
+  border: solid 1px #64868F;
+  padding: 2px;
+}
+
+.Image {
+  max-width: 500px;
+  height: auto;
+}
